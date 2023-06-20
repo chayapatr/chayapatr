@@ -1,7 +1,7 @@
 ### Hi there! Thanks for dropping by. 👋
 
 My name is Chayapatr (Pub). I'm ...
-- a editor-in-chief at [Spaceth.co](https://www.spaceth.co), an Thai media focusing on space and science
+- an editor-in-chief at [Spaceth.co](https://www.spaceth.co), a Thai media focusing on space and science
 - a co-founder of [Creatorsgarten](https://www.creatorsgarten.org), a collective of antidisciplinary creators to democratize creations for all
 
 ### Spaceth.co works
