@@ -1,6 +1,6 @@
 ### Hi there! Thanks for dropping by. 👋
 
-I'm Pub. I do stuff at [Creatorsgarten](https://www.creatorsgarten.org).
+I'm Pub. I do stuff at [MIT Media Lab](https://media.mit.edu/people/pub) and [Creatorsgarten](https://www.creatorsgarten.org).
 
 ### Links
 - [👾 Personal Web](https://from.pub)
